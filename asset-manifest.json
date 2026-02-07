@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddartharaothota/assistant.git/static/css/main.e6c13ad2.css",
+    "main.js": "/siddartharaothota/assistant.git/static/js/main.1aa6b49b.js",
+    "static/js/453.9c87a2dd.chunk.js": "/siddartharaothota/assistant.git/static/js/453.9c87a2dd.chunk.js",
+    "index.html": "/siddartharaothota/assistant.git/index.html",
+    "main.e6c13ad2.css.map": "/siddartharaothota/assistant.git/static/css/main.e6c13ad2.css.map",
+    "main.1aa6b49b.js.map": "/siddartharaothota/assistant.git/static/js/main.1aa6b49b.js.map",
+    "453.9c87a2dd.chunk.js.map": "/siddartharaothota/assistant.git/static/js/453.9c87a2dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1aa6b49b.js"
+  ]
+}
