@@ -2,7 +2,7 @@
   "name": "sydney",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/siddartharaothota/assistant.git",
+  "homepage": "https://github.com/siddartharaothota/assistant",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
