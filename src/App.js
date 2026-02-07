@@ -6,7 +6,6 @@ function App() {
   const [messages, setMessages] = useState([]);
   const messagesEndRef = useRef(null);
 
-  // Scroll to bottom automatically
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
@@ -17,7 +16,6 @@ function App() {
     const userInput = input.toLowerCase().trim();
     const found = data.find(item => item.question === userInput);
 
-    // Add messages with labels
     setMessages(prev => [
       ...prev, 
       `User: ${input}`, 
